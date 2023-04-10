@@ -5,7 +5,7 @@ Batalha naval é um jogo de tabuleiro 10 x 10 onde o jogador tem que adivinhar o
 # Prints do jogo
 Menu
 <p align="center">
-<img width="470" src="BatalhaNavalGame/assets/barco.jpg">
+<img width="470" src="BatalhaNavalGame/assets/Menu.jpeg">
 </p>
 
 
